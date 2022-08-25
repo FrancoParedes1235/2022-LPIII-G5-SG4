@@ -8,7 +8,6 @@ import java.util.*;
 
 /**
  *
- * @author HOUSE
  */
 public class Principal {
 
