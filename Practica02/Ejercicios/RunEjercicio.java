@@ -37,7 +37,7 @@ public class RunEjercicio {
         dia = entrada.nextInt();
         System.out.println("Ingrese el mes: ");
         mes = entrada.nextInt();
-        System.out.println("Ingrese el año: ");
+        System.out.println("Ingrese el anio: ");
         anio = entrada.nextInt();
         
         System.out.println("Ingrese su altura en cm: ");
