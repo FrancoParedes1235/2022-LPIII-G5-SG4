@@ -8,7 +8,6 @@ import java.util.*;
 
 /**
  *
- * @author HOUSE
  */
 public class Principal {
 
@@ -18,7 +17,7 @@ public class Principal {
         Fido.increEdad(2);
         System.out.println(Fido.toString());
         Pelusa.increEdad(5);
-        System.out.println(Pelusa.toString()); //System.out.println(p1.peso); //p1.dormir(); } }
+        System.out.println(Pelusa.toString());
 
     }
 }
